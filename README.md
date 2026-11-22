@@ -1,1 +1,1 @@
-这是一个git练习的仓库,名字叫做git_pratice
+这是一个git练习的仓库,名字叫做git_pratice,这是第二个人修改的内容
